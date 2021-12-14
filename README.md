@@ -1,6 +1,7 @@
 - 💁 **ETH**  :  `0x654ccc508186540E30669E10B9F68c7495d57C9b`
-- 💁 **ens**  :  `kusd.eth`
-
+- 💁 **ENS**  :  `kusd.eth`
+- 💁 **SOL**  :  `FfPMS23KSQMWSEMoR5rkdsWVsiK64Zft5X9nUoxhwL3v`
+- 💁 **DOT**  : `16a2kmN3QDDKyqu4E9fdKda5kGqimEwzLiQG7R9NwibtBqiS`
 
 <!--
 **StrawberryFlavor/StrawberryFlavor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
