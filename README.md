@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 -->
 ![Joey's github stats](https://github-readme-stats.vercel.app/api?username=StrawberryFlavor&show_icons=true&theme=radical&count_private=true)
 
-![image](https://user-images.githubusercontent.com/28721839/145984279-d32d9877-5274-4e03-a237-c2df9959268d.png)
+![degenscore](https://user-images.githubusercontent.com/28721839/146706395-96ce8760-5812-43aa-8193-966d0049eec7.png)
 
