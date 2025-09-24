@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 -->
 ![Joey's github stats](https://github-readme-stats.vercel.app/api?username=StrawberryFlavor&show_icons=true&theme=radical&count_private=true)
 
-![degenscore](https://user-images.githubusercontent.com/28721839/146706395-96ce8760-5812-43aa-8193-966d0049eec7.png)
 
