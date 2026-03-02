@@ -59,7 +59,6 @@
 | Chain | Address |
 |:-----:|:--------|
 | ![ETH](https://img.shields.io/badge/ETH-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) | `0x654ccc508186540E30669E10B9F68c7495d57C9b` |
-| ![ENS](https://img.shields.io/badge/ENS-5284FF?style=for-the-badge&logo=ethereum&logoColor=white) | `kusd.eth` |
 | ![SOL](https://img.shields.io/badge/SOL-9945FF?style=for-the-badge&logo=solana&logoColor=white) | `FfPMS23KSQMWSEMoR5rkdsWVsiK64Zft5X9nUoxhwL3v` |
 | ![DOT](https://img.shields.io/badge/DOT-E6007A?style=for-the-badge&logo=polkadot&logoColor=white) | `16a2kmN3QDDKyqu4E9fdKda5kGqimEwzLiQG7R9NwibtBqiS` |
 
