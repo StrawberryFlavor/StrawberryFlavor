@@ -21,8 +21,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StrawberryFlavor&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&ring_color=F75C7E&icon_color=F75C7E" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrawberryFlavor&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" />
+  <img height="180em" src="https://vercel-readme-stats-eight.vercel.app/api?username=StrawberryFlavor&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&ring_color=F75C7E&icon_color=F75C7E" />
+  <img height="180em" src="https://vercel-readme-stats-eight.vercel.app/api/top-langs/?username=StrawberryFlavor&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" />
 </div>
 
 <br>
